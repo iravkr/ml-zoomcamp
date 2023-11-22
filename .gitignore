@@ -1,0 +1,5 @@
+# Ignore 'data' folders at any level
+**/data/
+
+# Ignore '.zip' files at any level
+**/*.zip
